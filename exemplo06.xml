@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<array>
+    <materia> 
+        <aula> 
+            <titulo> Aula 01 </titulo>
+            <texto> Variáveis </texto>
+        </aula> 
+        <aula> 
+            <titulo> Aula 02 </titulo>
+            <texto> Estrutura de Decisão </texto>
+            <topico>
+                <item01>IF</item01>
+                <item02>SWITCH</item02>
+            </topico> 
+        </aula>
+        <aula> 
+            <titulo> Aula 03 </titulo>
+            <texto> Estrutura de Repetição </texto>
+            <topico>
+                <item01>FOR</item01>
+                <item02>WHILE</item02>
+            </topico> 
+        </aula>
+    </materia>
+</array>

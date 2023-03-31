@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<array>
+    <materia>
+        <aula>
+            <titulo>Aula01</titulo>
+            <texto>Variáveis</texto>
+        </aula>
+        
+        <aula>
+            <titulo>Aula02</titulo>
+            <texto>EstruturadeDecisão</texto>
+        </aula>
+        
+        <aula>
+            <titulo>Aula03</titulo>
+            <texto>EstruturadeRepetição</texto>
+        </aula>
+    </materia>
+</array>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>  
+
+<materia>
+
+  <aula>  
+    <titulo> Exemplo 01 </titulo>
+    <texto> Assunto A </texto>  
+  </aula>  
+  
+  <aula>  
+    <titulo> Exemplo 02 </titulo>  
+    <texto> Assunto B </texto>  
+  </aula>  
+  
+  <aula>  
+    <titulo> Exemplo 03 </titulo>  
+    <texto> Assunto C </texto>  
+  </aula>  
+  
+</materia>  

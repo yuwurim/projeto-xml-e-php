@@ -1,0 +1,18 @@
+<?xml version="1.0"?>  
+<materia> 
+    <aula>
+        <titulo> Aula 01 </titulo> 
+        <texto> Variáveis </texto>
+    </aula>
+
+    <aula> 
+        <titulo> Aula 02 </titulo>
+        <texto> Estrutura de Decisão </texto>
+    </aula>
+
+    <aula>
+        <titulo> Aula 03 </titulo>
+        <texto> Estrutura de Repetição </texto>
+    </aula>
+
+</materia>
